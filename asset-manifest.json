@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ShubhamAnandJain/GamesWithReact/static/css/main.3fa7586b.chunk.css",
+    "main.js": "/ShubhamAnandJain/GamesWithReact/static/js/main.1a6abea9.chunk.js",
+    "main.js.map": "/ShubhamAnandJain/GamesWithReact/static/js/main.1a6abea9.chunk.js.map",
+    "runtime-main.js": "/ShubhamAnandJain/GamesWithReact/static/js/runtime-main.d199e02e.js",
+    "runtime-main.js.map": "/ShubhamAnandJain/GamesWithReact/static/js/runtime-main.d199e02e.js.map",
+    "static/js/2.af71590a.chunk.js": "/ShubhamAnandJain/GamesWithReact/static/js/2.af71590a.chunk.js",
+    "static/js/2.af71590a.chunk.js.map": "/ShubhamAnandJain/GamesWithReact/static/js/2.af71590a.chunk.js.map",
+    "index.html": "/ShubhamAnandJain/GamesWithReact/index.html",
+    "precache-manifest.5019d33d9850a472158cb021c01b63a2.js": "/ShubhamAnandJain/GamesWithReact/precache-manifest.5019d33d9850a472158cb021c01b63a2.js",
+    "service-worker.js": "/ShubhamAnandJain/GamesWithReact/service-worker.js",
+    "static/css/main.3fa7586b.chunk.css.map": "/ShubhamAnandJain/GamesWithReact/static/css/main.3fa7586b.chunk.css.map",
+    "static/js/2.af71590a.chunk.js.LICENSE.txt": "/ShubhamAnandJain/GamesWithReact/static/js/2.af71590a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d199e02e.js",
+    "static/js/2.af71590a.chunk.js",
+    "static/css/main.3fa7586b.chunk.css",
+    "static/js/main.1a6abea9.chunk.js"
+  ]
+}
